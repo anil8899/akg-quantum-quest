@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<defs><linearGradient id="g" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#28f4cf"/><stop offset="1" stop-color="#a66bff"/></linearGradient><radialGradient id="bg"><stop offset="0" stop-color="#101c3a"/><stop offset="1" stop-color="#030611"/></radialGradient></defs>
+<rect width="128" height="128" rx="24" fill="url(#bg)"/>
+<g fill="none" stroke="url(#g)" stroke-width="2.8" stroke-linecap="round"><ellipse cx="64" cy="54" rx="49" ry="19" transform="rotate(-35 64 54)"/><ellipse cx="64" cy="54" rx="49" ry="19" transform="rotate(35 64 54)"/><path d="M81 25 103 13 96 36 91 29 76 44"/></g>
+<circle cx="64" cy="54" r="5" fill="#b9fff8"/><text x="64" y="83" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="900" text-anchor="middle" fill="url(#g)" stroke="#06152d" stroke-width="1.5" paint-order="stroke">AKG</text>
+<text x="64" y="101" font-family="Arial,Helvetica,sans-serif" font-size="8" font-weight="700" letter-spacing="1.4" text-anchor="middle" fill="#d6e6ff">QUANTUM QUEST</text></svg>
